@@ -23,19 +23,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[D-ID](https://www.d-id.com)** para  geração de avatar virtual;
+- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
+- Software **[CapCut](https://www.capcut.com/pt-br/)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. usei o "ElevenLabs" para criar uma voz sintética envolvente para o avatar. O "D-ID" foi essencial para criar um avatar virtual. A montagem e edição foram realizadas no CapCut Um software gratuito
+e de facil manuseio
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O video é uma breve explicação de um minuto explicando um pouco do mundo das IA's generativas
+
+[LINK PARA O VÍDEO AQUI] ->(https://drive.google.com/file/d/1yNjeBvLu8bCCs4RtqO5w6C8gICeUvP7b/view?usp=sharing)<-
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Esse rapido projeto foi uma otima experiência para aprender as funcionalidades das IAs Generativas para criar uma narrativa poderosa e cativante.
 ```
 
 ### Exemplos e Insigths
