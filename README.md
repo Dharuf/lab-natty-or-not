@@ -32,7 +32,8 @@ Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e
 - Software **[CapCut](https://www.capcut.com/pt-br/)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. usei o "ElevenLabs" para criar uma voz sintética envolvente para o avatar. O "D-ID" foi essencial para criar um avatar virtual. A montagem e edição foram realizadas no CapCut Um software gratuito
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. usei o "ElevenLabs" para criar uma voz sintética envolvente para o avatar.
+O "D-ID" foi essencial para criar um avatar virtual. A montagem e edição foram realizadas no CapCut Um software gratuito
 e de facil manuseio
 
 ## 🚀 Resultados
